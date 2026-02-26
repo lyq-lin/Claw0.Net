@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.2.11415.280 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claw0", "Claw0.csproj", "{904315FE-C390-E8B5-5D49-1F761EB0E1AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{904315FE-C390-E8B5-5D49-1F761EB0E1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904315FE-C390-E8B5-5D49-1F761EB0E1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904315FE-C390-E8B5-5D49-1F761EB0E1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904315FE-C390-E8B5-5D49-1F761EB0E1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {073B5598-9314-4D39-AC26-0017D0936E88}
+	EndGlobalSection
+EndGlobal
